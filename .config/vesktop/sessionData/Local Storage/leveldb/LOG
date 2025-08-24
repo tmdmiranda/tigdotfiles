@@ -1,0 +1,6 @@
+2025/08/24-20:46:00.070 61f9 Reusing MANIFEST /home/hypruser/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/08/24-20:46:00.074 61f9 Recovering log #9
+2025/08/24-20:46:00.074 61f9 Reusing old log /home/hypruser/.config/vesktop/sessionData/Local Storage/leveldb/000009.log 
+2025/08/24-21:14:06.112 61fa Level-0 table #13: started
+2025/08/24-21:14:06.122 61fa Level-0 table #13: 46634 bytes OK
+2025/08/24-21:14:06.124 61fa Delete type=0 #9
