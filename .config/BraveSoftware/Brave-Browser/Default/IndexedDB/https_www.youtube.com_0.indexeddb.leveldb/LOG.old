@@ -1,0 +1,12 @@
+2025/08/25-02:55:08.018 16a77 Reusing MANIFEST /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/25-02:55:08.018 16a77 Recovering log #39
+2025/08/25-02:55:08.026 16a77 Reusing old log /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.log 
+2025/08/25-03:04:20.000 16a78 Level-0 table #44: started
+2025/08/25-03:04:20.018 16a78 Level-0 table #44: 1835361 bytes OK
+2025/08/25-03:04:20.023 16a78 Delete type=0 #39
+2025/08/25-03:05:57.652 16a78 Compacting 1@1 + 1@2 files
+2025/08/25-03:05:57.661 16a78 Generated table #45@1: 354 keys, 76961 bytes
+2025/08/25-03:05:57.661 16a78 Compacted 1@1 + 1@2 files => 76961 bytes
+2025/08/25-03:05:57.663 16a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/25-03:05:57.663 16a78 Delete type=2 #44
+2025/08/25-03:05:57.664 16a78 Delete type=2 #41

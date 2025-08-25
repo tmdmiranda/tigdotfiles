@@ -31,7 +31,7 @@
             "enabled": false
         },
         "MessageEventsAPI": {
-            "enabled": false
+            "enabled": true
         },
         "MessagePopoverAPI": {
             "enabled": false
@@ -88,7 +88,7 @@
             "enabled": false
         },
         "BetterSettings": {
-            "enabled": false
+            "enabled": true
         },
         "BetterUploadButton": {
             "enabled": false
@@ -163,7 +163,7 @@
             "enabled": false
         },
         "FakeNitro": {
-            "enabled": false
+            "enabled": true
         },
         "FakeProfileThemes": {
             "enabled": false
@@ -511,7 +511,7 @@
             "enabled": false
         },
         "VoiceMessages": {
-            "enabled": false
+            "enabled": true
         },
         "VolumeBooster": {
             "enabled": false
@@ -533,6 +533,23 @@
         },
         "BadgeAPI": {
             "enabled": true
+        },
+        "NoTrack": {
+            "enabled": true,
+            "disableAnalytics": true
+        },
+        "Settings": {
+            "enabled": true,
+            "settingsLocation": "aboveNitro"
+        },
+        "DisableDeepLinks": {
+            "enabled": true
+        },
+        "SupportHelper": {
+            "enabled": true
+        },
+        "WebContextMenus": {
+            "enabled": true
         }
     },
     "notifications": {
@@ -545,6 +562,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1756005413337
+        "settingsSyncVersion": 1756130177772
     }
 }

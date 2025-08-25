@@ -1,0 +1,8 @@
+2025/08/25-15:54:47.683 4 Reusing MANIFEST /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/08/25-15:54:47.683 4 Recovering log #4
+2025/08/25-15:54:47.683 4 (ignoring error) /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log: dropping 13381 bytes; Corruption: checksum mismatch
+2025/08/25-15:54:47.683 4 (ignoring error) /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log: dropping 2446 bytes; Corruption: missing start of fragmented record(2)
+2025/08/25-15:54:47.683 4 Reusing old log /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log 
+2025/08/25-15:55:04.957 5 Level-0 table #8: started
+2025/08/25-15:55:04.965 5 Level-0 table #8: 24798 bytes OK
+2025/08/25-15:55:04.969 5 Delete type=0 #4

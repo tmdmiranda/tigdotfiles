@@ -1,12 +1,12 @@
 {
     "firstLaunch": false,
-    "maximized": true,
+    "maximized": false,
     "minimized": false,
     "windowBounds": {
         "x": 0,
         "y": 0,
-        "width": 1262,
-        "height": 665
+        "width": 2560,
+        "height": 1440
     },
-    "displayId": 60
+    "displayId": 59
 }

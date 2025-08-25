@@ -1,9 +1,15 @@
-2025/08/24-20:17:09.335 4ba4 Reusing MANIFEST /home/hypruser/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2025/08/24-20:17:09.345 4ba4 Recovering log #4
-2025/08/24-20:17:09.345 4ba4 Reusing old log /home/hypruser/.config/vesktop/sessionData/Local Storage/leveldb/000004.log 
-2025/08/24-20:20:55.212 4ba5 Level-0 table #8: started
-2025/08/24-20:20:55.224 4ba5 Level-0 table #8: 59360 bytes OK
-2025/08/24-20:20:55.226 4ba5 Delete type=0 #4
-2025/08/24-20:29:56.156 4ba5 Level-0 table #10: started
-2025/08/24-20:29:56.165 4ba5 Level-0 table #10: 22441 bytes OK
-2025/08/24-20:29:56.167 4ba5 Delete type=0 #7
+2025/08/25-04:28:37.538 1e0b Reusing MANIFEST /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/08/25-04:28:37.552 1e0b Recovering log #15
+2025/08/25-04:28:37.553 1e0b Reusing old log /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/000015.log 
+2025/08/25-04:29:37.557 1e0b Level-0 table #19: started
+2025/08/25-04:29:37.565 1e0b Level-0 table #19: 23741 bytes OK
+2025/08/25-04:29:37.570 1e0b Delete type=0 #15
+2025/08/25-04:29:37.571 1e0b Compacting 4@0 + 1@1 files
+2025/08/25-04:29:37.573 1e0b Generated table #20@0: 78 keys, 65683 bytes
+2025/08/25-04:29:37.574 1e0b Compacted 4@0 + 1@1 files => 65683 bytes
+2025/08/25-04:29:37.576 1e0b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/25-04:29:37.576 1e0b Delete type=2 #13
+2025/08/25-04:29:37.576 1e0b Delete type=2 #16
+2025/08/25-04:29:37.576 1e0b Delete type=2 #10
+2025/08/25-04:29:37.576 1e0b Delete type=2 #19
+2025/08/25-04:29:37.576 1e0b Delete type=2 #8

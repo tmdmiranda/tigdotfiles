@@ -1,0 +1,33 @@
+0:17:03 TextSelectionChanged
+0:17:03 Tab7 StartNav115 #renderer-user #link
+0:17:03 Tab7 FinishNav115
+0:17:04 TextSelectionChanged
+0:17:04 Tab7 StartNav116 #renderer-user #link
+0:17:04 Tab7 FinishNav116
+0:17:06 TextSelectionChanged
+0:17:11 Widget Closed: StatusBubble
+0:17:44 Widget Closed: StatusBubble
+0:18:08 TextSelectionChanged
+0:18:08 Tab7 StartNav117 #renderer-user #link
+0:18:08 Tab7 FinishNav117
+0:18:10 TextSelectionChanged
+0:18:10 Tab7 StartNav118 #renderer-user #link
+0:18:10 Tab7 FinishNav118
+0:18:12 TextSelectionChanged
+0:18:12 Tab7 StartNav119 #renderer-user #link
+0:18:12 Tab7 FinishNav119
+0:18:17 TextSelectionChanged
+0:18:17 Tab7 StartNav120 #renderer-user #link
+0:18:17 Tab7 FinishNav120
+0:18:17 UserEducation.MessageNotShown
+0:18:17 UserEducation.MessageNotShown.IPH_ExtensionsZeroStatePromo
+0:18:17 UserEducation.MessageNotShown.FeatureDisabled
+0:18:22 TextSelectionChanged
+0:18:22 Tab7 StartNav121 #renderer-user #link
+0:18:22 Tab7 FinishNav121
+0:18:34 TextSelectionChanged
+0:18:34 Tab7 StartNav122 #renderer-user #link
+0:18:34 Tab7 FinishNav122
+0:19:04 Widget Closed: MenuHost
+0:19:10 Widget Closed: MenuHost
+0:19:25 Widget Closed: StatusBubble
