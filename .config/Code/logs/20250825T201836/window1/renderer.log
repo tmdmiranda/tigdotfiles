@@ -1,0 +1,47 @@
+2025-08-25 20:18:36.771 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:36.783 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:36.783 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:36.976 [info] Started local extension host with pid 148790.
+2025-08-25 20:18:37.079 [error] Extension 'github.copilot-chat' wants API proposal 'findFiles2@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:37.080 [error] Extension 'github.copilot-chat' wants API proposal 'defaultChatParticipant@4' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:37.080 [error] Extension 'github.copilot-chat' wants API proposal 'aiTextSearchProvider@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:37.080 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@9' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:37.080 [error] Extension 'github.copilot-chat' wants API proposal 'languageModelDataPart@3' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:37.159 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-08-25 20:18:37.337 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-08-25 20:18:38.813 [error] Extension 'github.copilot-chat' wants API proposal 'findFiles2@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:38.814 [error] Extension 'github.copilot-chat' wants API proposal 'defaultChatParticipant@4' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:38.814 [error] Extension 'github.copilot-chat' wants API proposal 'aiTextSearchProvider@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:38.815 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@9' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:38.816 [error] Extension 'github.copilot-chat' wants API proposal 'languageModelDataPart@3' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-25 20:18:39.186 [error] [Extension Host] (node:148790) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-08-25 20:18:39.582 [info] [perf] Render performance baseline is 12ms
+2025-08-25 20:18:40.585 [error] CodeExpectedError: No default agent registered
+    at ixe.activateDefaultAgent (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2090:64028)
+2025-08-25 20:18:41.526 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-25 20:18:52.741 [error] command 'workbench.action.chat.triggerSetupForceSignIn' not found: Error: command 'workbench.action.chat.triggerSetupForceSignIn' not found
+    at kKe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3892)
+    at kKe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3824)
+    at async qXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:390)
+    at async KXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:1689)
+2025-08-25 20:18:59.166 [error] command 'workbench.action.chat.triggerSetupForceSignIn' not found: Error: command 'workbench.action.chat.triggerSetupForceSignIn' not found
+    at kKe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3892)
+    at kKe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3824)
+    at async qXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:390)
+    at async KXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:1689)
+2025-08-25 20:19:06.330 [error] command 'workbench.action.chat.triggerSetupForceSignIn' not found: Error: command 'workbench.action.chat.triggerSetupForceSignIn' not found
+    at kKe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3892)
+    at kKe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3824)
+    at async qXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:390)
+    at async KXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:1689)
+2025-08-25 20:19:07.435 [error] command 'workbench.action.chat.triggerSetupForceSignIn' not found: Error: command 'workbench.action.chat.triggerSetupForceSignIn' not found
+    at kKe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3892)
+    at kKe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3824)
+    at async qXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:390)
+    at async KXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:1689)
+2025-08-25 20:19:26.308 [error] command 'workbench.action.chat.triggerSetupForceSignIn' not found: Error: command 'workbench.action.chat.triggerSetupForceSignIn' not found
+    at kKe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3892)
+    at kKe.executeCommand (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1251:3824)
+    at async qXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:390)
+    at async KXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1276:1689)

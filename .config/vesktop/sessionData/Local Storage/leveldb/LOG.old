@@ -1,15 +1,110 @@
-2025/08/25-04:28:37.538 1e0b Reusing MANIFEST /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2025/08/25-04:28:37.552 1e0b Recovering log #15
-2025/08/25-04:28:37.553 1e0b Reusing old log /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/000015.log 
-2025/08/25-04:29:37.557 1e0b Level-0 table #19: started
-2025/08/25-04:29:37.565 1e0b Level-0 table #19: 23741 bytes OK
-2025/08/25-04:29:37.570 1e0b Delete type=0 #15
-2025/08/25-04:29:37.571 1e0b Compacting 4@0 + 1@1 files
-2025/08/25-04:29:37.573 1e0b Generated table #20@0: 78 keys, 65683 bytes
-2025/08/25-04:29:37.574 1e0b Compacted 4@0 + 1@1 files => 65683 bytes
-2025/08/25-04:29:37.576 1e0b compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/25-04:29:37.576 1e0b Delete type=2 #13
-2025/08/25-04:29:37.576 1e0b Delete type=2 #16
-2025/08/25-04:29:37.576 1e0b Delete type=2 #10
-2025/08/25-04:29:37.576 1e0b Delete type=2 #19
-2025/08/25-04:29:37.576 1e0b Delete type=2 #8
+2025/08/25-14:48:24.838 4a1 Reusing MANIFEST /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/08/25-14:48:24.852 4a1 Recovering log #18
+2025/08/25-14:48:24.853 4a1 Level-0 table #22: started
+2025/08/25-14:48:24.856 4a1 Level-0 table #22: 45818 bytes OK
+2025/08/25-14:48:24.859 4a1 Delete type=0 #18
+2025/08/25-14:51:25.082 4a2 Level-0 table #25: started
+2025/08/25-14:51:25.085 4a2 Level-0 table #25: 88841 bytes OK
+2025/08/25-14:51:25.088 4a2 Delete type=0 #23
+2025/08/25-14:57:25.084 4a2 Level-0 table #27: started
+2025/08/25-14:57:25.092 4a2 Level-0 table #27: 54073 bytes OK
+2025/08/25-14:57:25.095 4a2 Delete type=0 #24
+2025/08/25-15:04:56.880 4a2 Level-0 table #29: started
+2025/08/25-15:04:56.888 4a2 Level-0 table #29: 87277 bytes OK
+2025/08/25-15:04:56.891 4a2 Delete type=0 #26
+2025/08/25-15:04:56.891 4a2 Compacting 4@0 + 1@1 files
+2025/08/25-15:04:56.897 4a2 Generated table #30@0: 81 keys, 67835 bytes
+2025/08/25-15:04:56.897 4a2 Compacted 4@0 + 1@1 files => 67835 bytes
+2025/08/25-15:04:56.900 4a2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/25-15:04:56.900 4a2 Delete type=2 #29
+2025/08/25-15:04:56.900 4a2 Delete type=2 #22
+2025/08/25-15:04:56.900 4a2 Delete type=2 #27
+2025/08/25-15:04:56.900 4a2 Delete type=2 #20
+2025/08/25-15:04:56.900 4a2 Delete type=2 #25
+2025/08/25-15:11:24.974 4a1 Level-0 table #32: started
+2025/08/25-15:11:24.982 4a1 Level-0 table #32: 87079 bytes OK
+2025/08/25-15:11:24.985 4a1 Delete type=0 #28
+2025/08/25-16:10:53.119 4a2 Level-0 table #34: started
+2025/08/25-16:10:53.127 4a2 Level-0 table #34: 46021 bytes OK
+2025/08/25-16:10:53.130 4a2 Delete type=0 #31
+2025/08/25-16:23:48.433 4a2 Level-0 table #36: started
+2025/08/25-16:23:48.435 4a2 Level-0 table #36: 69837 bytes OK
+2025/08/25-16:23:48.438 4a2 Delete type=0 #33
+2025/08/25-16:28:30.189 4a2 Level-0 table #38: started
+2025/08/25-16:28:30.193 4a2 Level-0 table #38: 48408 bytes OK
+2025/08/25-16:28:30.195 4a2 Delete type=0 #35
+2025/08/25-16:28:30.195 4a2 Compacting 4@0 + 1@1 files
+2025/08/25-16:28:30.198 4a2 Generated table #39@0: 81 keys, 65897 bytes
+2025/08/25-16:28:30.198 4a2 Compacted 4@0 + 1@1 files => 65897 bytes
+2025/08/25-16:28:30.200 4a2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/25-16:28:30.200 4a2 Delete type=2 #30
+2025/08/25-16:28:30.200 4a2 Delete type=2 #34
+2025/08/25-16:28:30.200 4a2 Delete type=2 #32
+2025/08/25-16:28:30.200 4a2 Delete type=2 #36
+2025/08/25-16:28:30.200 4a2 Delete type=2 #38
+2025/08/25-16:42:15.734 4a2 Level-0 table #41: started
+2025/08/25-16:42:15.741 4a2 Level-0 table #41: 23286 bytes OK
+2025/08/25-16:42:15.743 4a2 Delete type=0 #37
+2025/08/25-17:35:15.734 4a2 Level-0 table #43: started
+2025/08/25-17:35:15.741 4a2 Level-0 table #43: 49313 bytes OK
+2025/08/25-17:35:15.745 4a2 Delete type=0 #40
+2025/08/25-18:32:15.737 4a1 Level-0 table #45: started
+2025/08/25-18:32:15.747 4a1 Level-0 table #45: 48323 bytes OK
+2025/08/25-18:32:15.750 4a1 Delete type=0 #42
+2025/08/25-19:24:52.665 4a2 Level-0 table #47: started
+2025/08/25-19:24:52.671 4a2 Level-0 table #47: 58094 bytes OK
+2025/08/25-19:24:52.674 4a2 Delete type=0 #44
+2025/08/25-19:24:52.674 4a2 Compacting 4@0 + 1@1 files
+2025/08/25-19:24:52.679 4a2 Generated table #48@0: 86 keys, 67365 bytes
+2025/08/25-19:24:52.679 4a2 Compacted 4@0 + 1@1 files => 67365 bytes
+2025/08/25-19:24:52.681 4a2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/25-19:24:52.682 4a2 Delete type=2 #41
+2025/08/25-19:24:52.682 4a2 Delete type=2 #43
+2025/08/25-19:24:52.682 4a2 Delete type=2 #39
+2025/08/25-19:24:52.682 4a2 Delete type=2 #45
+2025/08/25-19:24:52.682 4a2 Delete type=2 #47
+2025/08/25-19:31:53.103 4a2 Level-0 table #50: started
+2025/08/25-19:31:53.111 4a2 Level-0 table #50: 49548 bytes OK
+2025/08/25-19:31:53.114 4a2 Delete type=0 #46
+2025/08/25-19:32:53.105 4a2 Level-0 table #52: started
+2025/08/25-19:32:53.116 4a2 Level-0 table #52: 47673 bytes OK
+2025/08/25-19:32:53.119 4a2 Delete type=0 #49
+2025/08/25-19:48:00.506 4a2 Level-0 table #54: started
+2025/08/25-19:48:00.512 4a2 Level-0 table #54: 44360 bytes OK
+2025/08/25-19:48:00.515 4a2 Delete type=0 #51
+2025/08/25-20:47:07.947 4a2 Level-0 table #56: started
+2025/08/25-20:47:07.959 4a2 Level-0 table #56: 49376 bytes OK
+2025/08/25-20:47:07.969 4a2 Delete type=0 #53
+2025/08/25-20:47:07.969 4a2 Compacting 4@0 + 1@1 files
+2025/08/25-20:47:07.981 4a2 Generated table #57@0: 88 keys, 68036 bytes
+2025/08/25-20:47:07.981 4a2 Compacted 4@0 + 1@1 files => 68036 bytes
+2025/08/25-20:47:07.990 4a2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/25-20:47:07.990 4a2 Delete type=2 #50
+2025/08/25-20:47:07.990 4a2 Delete type=2 #52
+2025/08/25-20:47:07.990 4a2 Delete type=2 #56
+2025/08/25-20:47:07.990 4a2 Delete type=2 #48
+2025/08/25-20:47:07.990 4a2 Delete type=2 #54
+2025/08/25-21:06:07.942 4a2 Level-0 table #59: started
+2025/08/25-21:06:07.945 4a2 Level-0 table #59: 43986 bytes OK
+2025/08/25-21:06:07.947 4a2 Delete type=0 #55
+2025/08/25-21:24:09.709 4a2 Level-0 table #61: started
+2025/08/25-21:24:09.713 4a2 Level-0 table #61: 46871 bytes OK
+2025/08/25-21:24:09.715 4a2 Delete type=0 #58
+2025/08/25-21:34:09.709 4a2 Level-0 table #63: started
+2025/08/25-21:34:09.715 4a2 Level-0 table #63: 20898 bytes OK
+2025/08/25-21:34:09.719 4a2 Delete type=0 #60
+2025/08/25-21:41:09.708 4a2 Level-0 table #65: started
+2025/08/25-21:41:09.742 4a2 Level-0 table #65: 43878 bytes OK
+2025/08/25-21:41:09.759 4a2 Delete type=0 #62
+2025/08/25-21:41:09.760 4a2 Compacting 4@0 + 1@1 files
+2025/08/25-21:41:09.770 4a2 Generated table #66@0: 91 keys, 68933 bytes
+2025/08/25-21:41:09.770 4a2 Compacted 4@0 + 1@1 files => 68933 bytes
+2025/08/25-21:41:09.779 4a2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/25-21:41:09.779 4a2 Delete type=2 #65
+2025/08/25-21:41:09.779 4a2 Delete type=2 #59
+2025/08/25-21:41:09.779 4a2 Delete type=2 #63
+2025/08/25-21:41:09.779 4a2 Delete type=2 #61
+2025/08/25-21:41:09.779 4a2 Delete type=2 #57
+2025/08/25-22:21:09.712 4a2 Level-0 table #68: started
+2025/08/25-22:21:09.717 4a2 Level-0 table #68: 48492 bytes OK
+2025/08/25-22:21:09.719 4a2 Delete type=0 #64

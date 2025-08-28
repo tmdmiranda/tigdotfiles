@@ -1,0 +1,13 @@
+2025/08/26-20:52:50.748 bd0 Reusing MANIFEST /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_spicychat.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/26-20:52:50.748 bd0 Recovering log #6
+2025/08/26-20:52:50.749 bd0 Reusing old log /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_spicychat.ai_0.indexeddb.leveldb/000006.log 
+2025/08/26-20:52:51.006 bd8 Level-0 table #10: started
+2025/08/26-20:52:51.008 bd8 Level-0 table #10: 7435 bytes OK
+2025/08/26-20:52:51.011 bd8 Delete type=0 #6
+2025/08/26-20:52:51.011 bce Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 877 : 1
+2025/08/26-20:52:51.011 bce Compacting 1@0 + 1@1 files
+2025/08/26-20:52:51.013 bce Generated table #11@0: 350 keys, 7119 bytes
+2025/08/26-20:52:51.013 bce Compacted 1@0 + 1@1 files => 7119 bytes
+2025/08/26-20:52:51.016 bce compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/26-20:52:51.016 bce Delete type=2 #10
+2025/08/26-20:52:51.016 bce Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 877 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

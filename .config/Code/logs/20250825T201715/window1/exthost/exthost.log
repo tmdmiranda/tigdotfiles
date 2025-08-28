@@ -1,0 +1,20 @@
+2025-08-25 20:17:16.707 [info] Extension host with pid 148178 started
+2025-08-25 20:17:16.754 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-25 20:17:16.765 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-25 20:17:16.798 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-25 20:17:16.867 [info] Eager extensions activated
+2025-08-25 20:17:16.868 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-25 20:17:16.869 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-25 20:17:17.610 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-25 20:17:30.939 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-08-25 20:17:31.114 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-25 20:17:32.128 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-25 20:17:33.395 [error] Error: GitHubLoginFailed
+    at gO._authShowWarnings (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:552:55936)
+    at gO.getCopilotToken (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:552:54475)
+    at e3.getCopilotToken (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:418:24219)
+    at Ov._fetchModels (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:2539:4949)
+    at Ov.getAllChatModels (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:2539:2710)
+    at A8.getAllChatEndpoints (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:2539:15672)
+2025-08-25 20:18:12.793 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-25 20:18:12.803 [info] Extension host with pid 148178 exiting with code 0

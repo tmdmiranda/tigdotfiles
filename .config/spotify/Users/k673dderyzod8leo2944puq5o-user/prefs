@@ -1,4 +1,7 @@
 audio.play_bitrate_non_metered_migrated=true
-connect.dial_devices="[{\"address\":\"192.168.1.122\",\"app_state\":\"INSTALLABLE\",\"created_timestamp\":1756133092,\"device_id\":\"5613ec5e-40dc-4240-ab4c-d46636296af5\",\"dial_location_url\":\"http://192.168.1.122:1498/\",\"display_name\":\"[LG] webOS TV NANO756PR\",\"last_seen\":1756133103,\"manufacturer\":\"LG\",\"model_name\":\"50NANO756PR\",\"product_cap\":\"\",\"public_ip\":\"2001:818:e75f:5900:77b2:accd:9d87:70a8\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"74e6b8860df7\",\"port\":9,\"retries\":480}}]"
+connect.dial_devices="[{\"address\":\"192.168.1.124\",\"app_state\":\"INSTALLABLE\",\"created_timestamp\":1756157771,\"device_id\":\"5613ec5e-40dc-4240-ab4c-d46636296af5\",\"dial_location_url\":\"http://192.168.1.124:1498/\",\"display_name\":\"[LG] webOS TV NANO756PR\",\"last_seen\":1756157950,\"manufacturer\":\"LG\",\"model_name\":\"50NANO756PR\",\"product_cap\":\"\",\"public_ip\":\"2001:818:e75f:5900:77b2:accd:9d87:70a8\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"74e6b8860df7\",\"port\":9,\"retries\":480}}]"
 connect.mdns_devices="[]"
-app.player.volume=44394
+audio.play_bitrate_non_metered_enumeration=4
+audio.play_bitrate_enumeration=4
+app.player.volume=24663
+audio.loudness.environment=2

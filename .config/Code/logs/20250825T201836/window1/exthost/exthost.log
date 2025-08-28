@@ -1,0 +1,21 @@
+2025-08-25 20:18:37.326 [info] Extension host with pid 148790 started
+2025-08-25 20:18:37.326 [info] Skipping acquiring lock for /home/mirandahypr/.config/Code/User/workspaceStorage/f060c7fb40e61615e3dbac863d812d26.
+2025-08-25 20:18:37.412 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-08-25 20:18:37.429 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-25 20:18:37.466 [info] Eager extensions activated
+2025-08-25 20:18:37.506 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-25 20:18:37.508 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-25 20:18:38.980 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-25 20:18:38.991 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-08-25 20:18:39.021 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2025-08-25 20:18:39.204 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-25 20:18:40.240 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-25 20:18:41.524 [error] Error: GitHubLoginFailed
+    at gO._authShowWarnings (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:552:55936)
+    at gO.getCopilotToken (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:552:54475)
+    at e3.getCopilotToken (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:418:24219)
+    at Ov._fetchModels (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:2539:4949)
+    at Ov.getAllChatModels (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:2539:2710)
+    at A8.getAllChatEndpoints (/home/mirandahypr/.vscode/extensions/github.copilot-chat-0.30.3/dist/extension.js:2539:15672)
+2025-08-25 20:26:36.357 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-25 20:26:36.371 [info] Extension host with pid 148790 exiting with code 0

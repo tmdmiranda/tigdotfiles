@@ -1,5 +1,15 @@
-2025/08/25-14:50:36.633 4 Reusing MANIFEST /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2025/08/25-14:50:36.634 4 Recovering log #4
-2025/08/25-14:50:36.635 4 (ignoring error) /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log: dropping 13381 bytes; Corruption: checksum mismatch
-2025/08/25-14:50:36.635 4 (ignoring error) /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log: dropping 2446 bytes; Corruption: missing start of fragmented record(2)
-2025/08/25-14:50:36.635 4 Reusing old log /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log 
+2025/08/26-01:52:01.999 4 Reusing MANIFEST /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/08/26-01:52:02.003 4 Recovering log #25
+2025/08/26-01:52:02.006 4 Reusing old log /home/mirandahypr/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000025.log 
+2025/08/26-01:52:02.282 5 Level-0 table #29: started
+2025/08/26-01:52:02.291 5 Level-0 table #29: 23575 bytes OK
+2025/08/26-01:52:02.302 5 Delete type=0 #25
+2025/08/26-01:52:02.306 5 Compacting 4@0 + 1@1 files
+2025/08/26-01:52:02.319 5 Generated table #30@0: 1304 keys, 20693 bytes
+2025/08/26-01:52:02.319 5 Compacted 4@0 + 1@1 files => 20693 bytes
+2025/08/26-01:52:02.329 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/26-01:52:02.329 5 Delete type=2 #29
+2025/08/26-01:52:02.329 5 Delete type=2 #22
+2025/08/26-01:52:02.329 5 Delete type=2 #26
+2025/08/26-01:52:02.329 5 Delete type=2 #18
+2025/08/26-01:52:02.329 5 Delete type=2 #20

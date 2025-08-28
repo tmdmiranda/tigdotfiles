@@ -1,29 +1,9 @@
-2025/08/25-14:48:24.838 4a1 Reusing MANIFEST /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2025/08/25-14:48:24.852 4a1 Recovering log #18
-2025/08/25-14:48:24.853 4a1 Level-0 table #22: started
-2025/08/25-14:48:24.856 4a1 Level-0 table #22: 45818 bytes OK
-2025/08/25-14:48:24.859 4a1 Delete type=0 #18
-2025/08/25-14:51:25.082 4a2 Level-0 table #25: started
-2025/08/25-14:51:25.085 4a2 Level-0 table #25: 88841 bytes OK
-2025/08/25-14:51:25.088 4a2 Delete type=0 #23
-2025/08/25-14:57:25.084 4a2 Level-0 table #27: started
-2025/08/25-14:57:25.092 4a2 Level-0 table #27: 54073 bytes OK
-2025/08/25-14:57:25.095 4a2 Delete type=0 #24
-2025/08/25-15:04:56.880 4a2 Level-0 table #29: started
-2025/08/25-15:04:56.888 4a2 Level-0 table #29: 87277 bytes OK
-2025/08/25-15:04:56.891 4a2 Delete type=0 #26
-2025/08/25-15:04:56.891 4a2 Compacting 4@0 + 1@1 files
-2025/08/25-15:04:56.897 4a2 Generated table #30@0: 81 keys, 67835 bytes
-2025/08/25-15:04:56.897 4a2 Compacted 4@0 + 1@1 files => 67835 bytes
-2025/08/25-15:04:56.900 4a2 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/25-15:04:56.900 4a2 Delete type=2 #29
-2025/08/25-15:04:56.900 4a2 Delete type=2 #22
-2025/08/25-15:04:56.900 4a2 Delete type=2 #27
-2025/08/25-15:04:56.900 4a2 Delete type=2 #20
-2025/08/25-15:04:56.900 4a2 Delete type=2 #25
-2025/08/25-15:11:24.974 4a1 Level-0 table #32: started
-2025/08/25-15:11:24.982 4a1 Level-0 table #32: 87079 bytes OK
-2025/08/25-15:11:24.985 4a1 Delete type=0 #28
-2025/08/25-16:10:53.119 4a2 Level-0 table #34: started
-2025/08/25-16:10:53.127 4a2 Level-0 table #34: 46021 bytes OK
-2025/08/25-16:10:53.130 4a2 Delete type=0 #31
+2025/08/26-19:51:52.312 410 Reusing MANIFEST /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/08/26-19:51:52.327 410 Recovering log #67
+2025/08/26-19:51:52.328 410 Reusing old log /home/mirandahypr/.config/vesktop/sessionData/Local Storage/leveldb/000067.log 
+2025/08/26-19:52:52.332 411 Level-0 table #71: started
+2025/08/26-19:52:52.340 411 Level-0 table #71: 83208 bytes OK
+2025/08/26-19:52:52.344 411 Delete type=0 #67
+2025/08/26-19:53:52.566 411 Level-0 table #73: started
+2025/08/26-19:53:52.572 411 Level-0 table #73: 47829 bytes OK
+2025/08/26-19:53:52.574 411 Delete type=0 #70
