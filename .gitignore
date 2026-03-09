@@ -1,0 +1,69 @@
+# --- Core Configs to Track (Do not ignore these) ---
+nvim/
+hypr/
+
+# --- Entire App Folders (The biggest bloat) ---
+BraveSoftware/
+Code/
+'Code - OSS'/
+Code\ -\ OSS/
+CurseForge/
+go/
+systemd/
+unity3d/
+unityhub/
+vesktop/
+yay/
+
+# --- Recursive Junk (Block these inside ANY app folder) ---
+**/Cache/
+**/Code Cache/
+**/GPUCache/
+**/IndexedDB/
+**/Local Storage/
+**/Session Storage/
+**/WebStorage/
+**/workspaceStorage/
+**/globalStorage/
+**/sessionData/
+**/logs/
+**/CachedData/
+**/Backups/
+**/Dictionaries/
+**/VideoDecodeStats/
+**/WebrtcVideoStats/
+**/DawnGraphiteCache/
+**/DawnWebGPUCache/
+**/shared_proto_db/
+
+# --- Generic File Junk ---
+*.log
+*.old
+*.bak
+*.tmp
+*.ldb
+*.bdic
+*-journal
+*-wal
+**/Cookies*
+**/History*
+**/Favicons
+**/Preferences
+**/QuotaManager*
+**/Network Persistent State
+**/TransportSecurity
+**/Trust Tokens
+
+# --- System/Old Junk ---
+*_old/
+trashrc
+baloofileinformationrc
+user-dirs.dirs
+user-dirs.locale
+
+OpenTabletDriver/Plugins/
+**/CachedExtensionVSIXs/
+spotify/
+cat_installer/
+OpenTabletDriver/
+Proton/
