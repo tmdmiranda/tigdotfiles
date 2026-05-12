@@ -1,0 +1,36 @@
+# --- Language/Manager Specifics ---
+# Go: Ignore the heavy dependency downloads and compiled binaries
+**/go/pkg/
+**/go/bin/
+
+# Bob (Neovim version manager): 
+# Don't track the downloaded Neovim versions/binaries themselves
+**/bob/nvim-bin/
+**/bob/downloads/
+
+# --- Game Dev & Apps ---
+# Unity3D: These can get huge and are usually machine-specific logs/caches
+**/unity3d/Editor/
+**/unity3d/cache/
+**/*.log
+
+# Vesktop/Electron: Ignore local session data/cache
+**/vesktop/Cache/
+**/vesktop/GPUCache/
+**/vesktop/session/
+# Vesktop / Discord specifics
+**/vesktop/Crashpad/
+**/vesktop/sessionData/
+**/vesktop/Singleton*
+**/vesktop/state.json
+
+# --- System & General Garbage ---
+.DS_Store
+*.swp
+*.tmp
+*~
+
+# --- Zig Specifics (for when you start your kernel projects) ---
+# If you keep your Zig projects inside your dotfiles folder
+zig-cache/
+zig-out/

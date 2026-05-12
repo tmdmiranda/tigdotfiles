@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Vesktop
+Comment=Vesktop autostart script
+Exec=/tmp/.mount_VesktoDWXqEn/vesktop.bin 
+StartupNotify=false
+Terminal=false
+Icon=vesktop
